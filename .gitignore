@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Vercel
+.vercel/
+
+# Temporary / Scratch scripts & dumps
+*.py
+*.mjs
+*raw.html
+reference_texts.txt
+*.log
+
+# OS & Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
