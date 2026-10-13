@@ -17,3 +17,5 @@ reference_texts.txt
 Thumbs.db
 .vscode/
 .idea/
+
+.vercel
